@@ -57,8 +57,8 @@ class PathManager(DirectoryLister):
         return None
     
     @classmethod
-    def start(cls, file_ext):
-        return cls(file_ext).show_path_folders()
+    def start(cls):
+        return cls().show_path_folders()
     
 
 
