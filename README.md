@@ -124,4 +124,6 @@ Note: Path/filename/extra/index fields are intentionally not stored in the CSV.
 
 ## License
 
-No license information is included in this repository. Add a LICENSE file if needed.
+Licensed under the Apache License, Version 2.0.
+
+See LICENSE and NOTICE.
