@@ -1,4 +1,4 @@
-# dataset_analysis
+# # File Analysis System for AI Models
 
 A CLI-based dataset exploration (profiling) tool. It analyzes a user-selected `.mat` or `.hea` file, prints a summary report to the terminal, and saves results as CSV files under the `results/` folder.
 
