@@ -1,5 +1,7 @@
+![Python](https://img.shields.io/badge/python-3.8%2B-blue)
 ![License](https://img.shields.io/github/license/emirhangulunay/file-analysis-system-for-ai-models)
-![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
+![Repo Size](https://img.shields.io/github/repo-size/emirhangulunay/file-analysis-system-for-ai-models)
+
 # # File Analysis System for AI Models
 
 A CLI-based dataset exploration (profiling) tool. It analyzes a user-selected `.mat` or `.hea` file, prints a summary report to the terminal, and saves results as CSV files under the `results/` folder.
